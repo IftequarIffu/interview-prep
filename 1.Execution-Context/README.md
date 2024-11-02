@@ -10,9 +10,14 @@
 
 -----------
 
-### Execution context has 2 parts:
+ Execution context has 2 parts:
 
 - Memory component (Variable Environment)
   - Stores all the variables.
 - Code component (Thread of Execution)
   - It's the part where the code execution happens.
+  
+-----------
+
+- Synchronous means that JS executes commands in an order.
+- Single threaded means that JS executes one command at a time.

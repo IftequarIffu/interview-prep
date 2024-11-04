@@ -23,3 +23,6 @@ In this phase,
 
 ### Other names for Call Stack
 ![alt text](image-3.png)
+
+
+**Before code starts executing, JS allocates memory. First phase is memory allocation. Second phase is code execution**

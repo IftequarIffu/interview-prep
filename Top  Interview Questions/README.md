@@ -1,8 +1,13 @@
+### General Questions
+
+-  What is Microservices and Monolith?
+
 ### JavaScript Interview Questions
 
 - What is Event Loop?
 - What are callbacks?
 - What is callback hell and how to prevent it?
+- What are generators and how are they used to prevent callback hell?
 
 
 ### Node.js Interview Questions
@@ -14,8 +19,8 @@
 - How to use middlewares in Express.js and Node.js?
 - What is stub in Node.js?
 - How do you enhance Node.js performance through clustering in Node.js?
-- What are the timer features of Node.js? (setTimeout and clearTimeout, setInterval and clearInterval, setImmediate and clearImmediate, nextIt)
-- What is child process spawn and exec in Node.js?
+- What are the timer features of Node.js? (setTimeout and clearTimeout, setInterval and clearInterval, setImmediate and clearImmediate, nextTick)
+- What is child process spawn, exec, fork in Node.js?
 - What is range assert pattern in Node.js?
 - Why clusters are different from worker sets in Node.js?
 - What is the difference between readFile and createReadStream in Node.js?

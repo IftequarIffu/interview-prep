@@ -1,3 +1,8 @@
-# JavaScript Notes (For interviews)
+# Interview Prep
 
-This repository has all the knowledge needed to master JavaScript
+This repository has all the knowledge needed to crack interviews.
+
+## Topics covered
+
+- JavaScript
+- Node.js

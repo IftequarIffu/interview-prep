@@ -34,3 +34,7 @@
 ### Differences
 
 ![alt text](image-9.png)
+
+### IIFE
+
+![alt text](image-10.png)

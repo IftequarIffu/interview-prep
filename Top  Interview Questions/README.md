@@ -13,6 +13,7 @@
 ### Node.js Interview Questions
 
 - Why does Node.js use v8 engine?
+- What is event-driven architecture in Node.js?
 - What is streaming in Node.js?
 - What are event emitters in Node.js?
 - What are buffers in Node.js?

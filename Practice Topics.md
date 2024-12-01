@@ -6,4 +6,6 @@
 - express js
 - mongoose
 - timer functions (setTimeout, setImmediate etc)
-- 
+- socket.io(or websockets)
+- array and string methods.
+- higher order functions (map, reduce, filter)
